@@ -1,3 +1,5 @@
+// run in terminal: npx gulp minify-js
+
 // Dependencias
 var gulp = require('gulp'),
 babel = require('gulp-babel');
